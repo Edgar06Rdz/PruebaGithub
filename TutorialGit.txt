@@ -1,0 +1,14 @@
+// Ir a carpeta
+cd
+
+//Iniciar git
+git init
+
+//Abrir en vs code
+code .
+
+//Checar Status
+Git status
+
+//Agregar todos los archivos
+Git add .

@@ -16,3 +16,14 @@ Git add .
 //Guardar cambios , -m es el mensaje del commit
 git commit -m "Agregué El archivo"
 
+//Ver commits
+git log
+
+//Regresar a commit
+git checkout f9aa7f3916e9f6770cc9667591534e2ab411b707
+
+//Ver ramas
+git branch
+
+//Cambiar de rama
+Switch
